@@ -12,5 +12,3 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript**. Thi
 Feel free to **fork, contribute, or customize** the project as per your needs!
 
 ---
-
-You can tweak the description to add any unique features or improvements specific to your implementation. Let me know if you'd like any modifications! 🚀
